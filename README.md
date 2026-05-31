@@ -1,41 +1,176 @@
-# Hi 👋, I'm PAPANA YALAMANDA RAO
+<div align="center">
 
-### Full Stack Developer | Java Developer |
+```
+██████╗  █████╗ ██████╗  █████╗ ███╗   ██╗ █████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗
+██████╔╝███████║██████╔╝███████║██╔██╗ ██║███████║
+██╔═══╝ ██╔══██║██╔═══╝ ██╔══██║██║╚██╗██║██╔══██║
+██║     ██║  ██║██║     ██║  ██║██║ ╚████║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-<p align="left"> <a href="https://github.com/yalamandap"><img src="https://github.com/yalamandap" alt="yalamandap" /></a> </p>
+# Hey there! I'm Papana Yalamanda Rao 👋
 
-- 🔭 I'm currently working on **AI-Powered Employee Progress Intelligence System and Skin Disease Classification System**
+### 🚀 Full Stack Developer · ☕ Java Engineer · 🤖 AI/ML Builder
 
-- 🌱 I'm currently learning **System Design, Microservices, Spring Boot, and Cloud-Native Development**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yalamanda.netlify.app-7F77DD?style=for-the-badge)](https://yalamanda.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-yalamandap6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yalamandap6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yalamanda-rao-papana-5309b9284)
+[![GitHub](https://img.shields.io/badge/GitHub-yalamandap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yalamandap)
 
-- 👯 I'm looking to collaborate on **Open Source Full Stack, AI/ML, and Cloud Projects**
+</div>
 
-- 🤝 I'm looking for help with **Scalable System Design, Distributed Systems, and Advanced AWS Architecture**
+---
 
-- 💬 Ask me about **Java, Spring Boot, React, FastAPI, AWS, AI/ML, REST APIs, and Data Structures & Algorithms**
+## 🖥️ `whoami`
 
-- 📫 How to reach me **yalamandap6@gmail.com**
+```bash
+$ cat about_me.txt
 
-- ⚡ Fun fact **Code • Build • Grow**
+🔭  Currently hacking on  →  AI-Powered Employee Progress Intelligence System
+                              + Skin Disease Classification System
 
-- 👨‍💻 All of my projects are available at **[https://yalamanda.netlify.app/](https://yalamanda.netlify.app/)**
+🌱  Currently leveling up  →  System Design | Microservices | Spring Boot
+                               Cloud-Native Development
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1LCZLCg2ua_iqjKYVbWxcqdlfblVyikkY/view?usp=sharing](https://drive.google.com/file/d/1LCZLCg2ua_iqjKYVbWxcqdlfblVyikkY/view?usp=sharing)**
+👯  Looking to collab on   →  Open Source Full Stack · AI/ML · Cloud Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/yalamandap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yalamandap" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yalamanda-rao-papana-5309b9284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yalamanda-rao-papana-5309b9284" height="30" width="40" /></a>
-<a href="https://instagram.com/chinnu_naidu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinnu_naidu_" height="30" width="40" /></a>
-<a href="https://leetcode.com/chinnu_naidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinnu_naidu" height="30" width="40" /></a>
-</p>
+🤝  Need a hand with       →  Scalable System Design · Distributed Systems
+                               Advanced AWS Architecture
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+💬  Ask me about           →  Java · Spring Boot · React · FastAPI · AWS
+                               AI/ML · REST APIs · DSA
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yalamandap&show_icons=true&locale=en&layout=compact" alt="yalamandap" /></p>
+⚡  Fun fact               →  Code • Build • Grow — it's not a motto, it's a lifestyle.
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalamandap&show_icons=true&locale=en" alt="yalamandap" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yalamandap&" alt="yalamandap" /></p>
+## 🔥 What I'm Building
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered Employee Progress Intelligence System
+Smart analytics platform tracking employee growth, skill gaps, and performance trends using ML models and real-time dashboards.
+
+**Stack:** `Spring Boot` `React` `Python` `AWS` `ML`
+
+</td>
+<td width="50%">
+
+### 🔬 Skin Disease Classification System
+Deep learning model for dermatological diagnosis — classifying skin conditions from images with high accuracy using CNN architectures.
+
+**Stack:** `PyTorch` `FastAPI` `Keras` `TensorFlow` `React`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=py)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![MATLAB](https://skillicons.dev/icons?i=matlab)
+
+### Frameworks & Libraries
+![Spring](https://skillicons.dev/icons?i=spring)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+### AI / ML
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg)
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+
+### Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+![Heroku](https://skillicons.dev/icons?i=heroku)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+### Tools & Design
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Selenium](https://skillicons.dev/icons?i=selenium)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yalamandap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalamandap&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yalamandap&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yalamandap&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-7F77DD?style=flat-square)](https://yalamanda.netlify.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_Here-1D9E75?style=flat-square)](https://drive.google.com/file/d/1LCZLCg2ua_iqjKYVbWxcqdlfblVyikkY/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yalamanda--rao--papana-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yalamanda-rao-papana-5309b9284)
+[![GitHub](https://img.shields.io/badge/GitHub-yalamandap-181717?style=flat-square&logo=github)](https://github.com/yalamandap)
+[![LeetCode](https://img.shields.io/badge/LeetCode-chinnu__naidu-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/chinnu_naidu)
+[![Instagram](https://img.shields.io/badge/Instagram-chinnu__naidu__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/chinnu_naidu_)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yalamandap.yalamandap)
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐ **If you like my work, consider starring my repos!** ⭐
+
+</div>
