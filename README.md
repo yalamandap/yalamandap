@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Java Developer |
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yalamandap" alt="yalamandap" /></a> </p>
+<p align="left"> <a href="https://github.com/yalamandap"><img src="https://github.com/yalamandap" alt="yalamandap" /></a> </p>
 
 - 🔭 I'm currently working on **AI-Powered Employee Progress Intelligence System and Skin Disease Classification System**
 
