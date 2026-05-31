@@ -95,8 +95,8 @@ Deep learning model for dermatological diagnosis — classifying skin conditions
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
-![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg)
-![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
 
 ### Cloud & DevOps
 ![AWS](https://skillicons.dev/icons?i=aws)
